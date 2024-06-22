@@ -1,12 +1,12 @@
 {
-    "id": "BattleLand",
+    "id": "battleLand",
     "name": "Battle Land",
     "description": "An PvP, HG, KitPvP server made by players for players.",
     "store": "https://store.battle.land/",
     "addresses": [
         "battle.land"
     ],
-   "primaryAddress": "wtap.gg",
+   "primaryAddress": "battle.land",
     "primaryColor": "#ffd100",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
